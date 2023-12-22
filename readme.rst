@@ -3,10 +3,6 @@ Forsale Free SQL contact me `<https://iegcodestore.my.id>`
 web portfolio profil me `<https://ibrahimelgibran.com>`
 ###################
 
-
-<img src="/bg.png"></img>
-
-
 ###################
 What is CodeIgniter
 ###################
