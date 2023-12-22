@@ -4,7 +4,7 @@ web portfolio profil me `<https://ibrahimelgibran.com>`
 ###################
 
 
-<img src="bg.png">
+<img src="bg.png"></img>
 
 
 ###################
